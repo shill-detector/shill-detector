@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Shill Detector",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Notifies you if the page you are reading contains the name of a biased journalist.",
+    "description": "The description of the application"
+  }
+}

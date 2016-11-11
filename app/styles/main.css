@@ -1,0 +1,23 @@
+.shilldetector-alert-snpjd696tt {
+	font-family: "sans-serif";
+	position: fixed;
+	width: 100%;
+	text-align: center;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	z-index: 99999999999999;
+	background: #FFEB3B;
+	border-bottom: 1px solid #ccb800;
+	font-size: 10px;
+	top: 0px;
+	left: 0px;
+}
+
+.close-snpjd696tt {
+	position: absolute;
+	right: 15px;
+	top: 2px;
+	font-weight: bold;
+	font-size: 14px;
+	cursor: pointer;
+}
